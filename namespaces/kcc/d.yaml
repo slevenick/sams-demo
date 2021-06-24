@@ -9,3 +9,6 @@ spec:
   location: US
   projectRef:
     external: graphite-test-sam-again
+    name: graphite-test-sam-again
+    namespace: graphite-test-sam-again
+    
