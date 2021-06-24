@@ -7,6 +7,4 @@ spec:
   description: "BigQuery Dataset Sample"
   friendlyName: bigquerydataset-sample2
   location: US
-  projectRef:
-    name: graphite-test-sam-again
     
